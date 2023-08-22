@@ -26,3 +26,25 @@ I have worked on three excel dashboards as my first week task. The First Dashboa
 📌 Increasing the number of customer service representatives to handle the increasing number of calls.
 
 📌Improving the training of customer service representatives so that they can resolve customer issues more quickly and efficiently.
+
+
+## Finance Dashboard
+I created my second dashboard using a Finance dataset. The dataset contained information about orders, products and other relevant details.
+
+⚡Some Quick Insights⚡:
+
+📌 The East region accounts for the majority of the Sales revenue whereas South region contributes the least to the Sales revenue.
+
+📌 Products priced between $900-$1100 have the highest sales amount among all price ranges.
+
+📌 The overall sales trend is increasing, but it is not a smooth trend. There are some ups and downs, which could be due to a variety of factors, such as seasonality, marketing campaigns or competitive activity.
+
+📌 The average sales trend is more consistent than the overall sales trend making it easier to see the overall direction of the sales and to identify any trends.
+
+📌 There are two peaks in the Sales trend, 18th and 26th June. These peaks could be due to special promotions or marketing campaigns that the company ran on those days.
+
+📌 The lowest sales day is 28th June. This could be due to a number of factors such as a holiday, bad weather or a competitor's promotion.
+
+
+
+📌June witnessed the peak of the sales performance.
