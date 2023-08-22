@@ -46,5 +46,19 @@ I created my second dashboard using a Finance dataset. The dataset contained inf
 📌 The lowest sales day is 28th June. This could be due to a number of factors such as a holiday, bad weather or a competitor's promotion.
 
 
+## Orders Dashboard
 
+This is my last excel dashboard using Orders dataset for Week1 task. The dataset contained information about orders, products, Agent's information, Revenue details and more
+
+⚡ Some Quick Insights:
+
+📌 Most of the orders were placed through the online platform.
+
+📌 The North region accounts for the majority of the Sales revenue whereas South region contributes the least to the Sales revenue.
+
+📌 Product 1 and Product 3 has a higher revenue contribution than the other products.
+
+📌 The decline in sales has led to a reduction in revenue over time.
+
+📌June witnessed the peak of the sales performance.
 📌June witnessed the peak of the sales performance.
